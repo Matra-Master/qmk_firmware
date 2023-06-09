@@ -2,12 +2,12 @@
 
 ![wizarddata/ergo_s_1](https://raw.githubusercontent.com/wizarddata/Ergo-S-1/main/Ergo_S-1_Layout.png)
 
+The Ergo S-1 is a fully wireless, split ergonomic keyboard that is compatible with cherry/gateron switches and cherry/oem/dcs keycaps.
+The real project uses ZMK firmware and is awesome, but I have a couple promicros laying around and want to use them in this form factor.
 
-*A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Franco Carabajal](https://github.com/Franco Carabajal)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [Franco Carabajal](https://github.com/Matra-Master)
+* Hardware Supported: Arduino ProMicro atmega32u4
 
 Make example for this keyboard (after setting up your build environment):
 

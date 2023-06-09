@@ -1,6 +1,6 @@
 {
     "manufacturer": "Franco Carabajal",
-    "keyboard_name": "wizarddata/ergo_s_1",
+    "keyboard_name": "Ergo-S-1",
     "maintainer": "Franco Carabajal",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
@@ -17,7 +17,7 @@
         "rows": ["D1", "D1", "D1", "D1", "D1", "D1", "D1"]
     },
     "processor": "atmega32u4",
-    "url": "",
+    "url": "https://github.com/wizarddata/Ergo-S-1",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
@@ -53,7 +53,6 @@
                 {"matrix": [3, 4], "x": 4.5, "y": 3.125},
                 {"matrix": [3, 5], "x": 5.5, "y": 3.25},
                 {"matrix": [2, 6], "x": 6.5, "y": 2.75, "h": 1.5},
-                {"matrix": [4, 0], "x": 0.5, "y": 4.375},
                 {"matrix": [4, 1], "x": 1.5, "y": 4.375},
                 {"matrix": [4, 2], "x": 2.5, "y": 4.125},
                 {"matrix": [4, 3], "x": 3.5, "y": 4},
@@ -95,7 +94,6 @@
                 {"matrix": [4, 15], "x": 15.25, "y": 4},
                 {"matrix": [4, 16], "x": 16.25, "y": 4.125},
                 {"matrix": [4, 17], "x": 17.25, "y": 4.375},
-                {"matrix": [4, 18], "x": 18.25, "y": 4.375},
                 {"matrix": [4, 10], "x": 10, "y": 4.25},
                 {"matrix": [4, 11], "x": 11, "y": 4.25},
                 {"matrix": [5, 10], "x": 10, "y": 5.25},
